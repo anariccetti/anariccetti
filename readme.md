@@ -1,6 +1,6 @@
 #### Olá | Hello | Salut 👋
 
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/anariccetti/) [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://www.twitter.com/anariccetti/)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/anariccetti/) [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://www.twitter.com/anariccetti/) [![Instagram](https://img.icons8.com/fluent/48/000000/instagram-new.png)](https://www.instagram.com/anariccetti/) 
 
 ## ⭐ My GitHub Stats
 
