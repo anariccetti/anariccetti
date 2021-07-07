@@ -1,9 +1,8 @@
 #### Olá | Hello | Salut 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/1024px-Linkedin_icon.svg.png" alt="linkedin" style="width:100px;"/>
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/anariccetti/)
 
-
-[![Twitter](https://cdnlogo.com/logos/t/96/twitter-icon.svg)](https://www.twitter.com/anariccetti/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://www.twitter.com/anariccetti/)
 
 ## ⭐ My GitHub Stats
 
